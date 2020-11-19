@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Facebook Ads</string>
+    <string name="privacy_policy">This app displays ads from Facebook Audience Network and work under Facebook Developer policy.
+        The icons, titles and other resources are trademark of their of respective owners and we are not the owners of any of the app elements!</string>
+    <string name="initializing_everything">Initializing everything…</string>
+    <string name="reward_ad">Reward Ad</string>
+    <string name="interstitial_ad">Interstitial Ad</string>
+    <string name="rectangle_ad">Rectangle Ad</string>
+    <string name="facebook_ads">Facebook Ads</string>
+    <string name="join_me_on_github">Join me on GitHub</string>
+    <string name="join_now">Join Now</string>
+    <string name="banner_ads">Banner Ads</string>
+    <string name="loading_fullscreen_ad">Loading Fullscreen Ad</string>
+    <string name="banner_size_50">Banner Size 50</string>
+    <string name="banner_size_90">Banner Size 90</string>
+</resources>
